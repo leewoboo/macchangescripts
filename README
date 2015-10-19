@@ -1,0 +1,7 @@
+Work in progress...
+
+Scripts to change MAC
+
+For openwrt there is an script to calculate the new MAC and one for changing it.
+To generate a maclist.lst file, you can use https://github.com/leewoboo/maclist_generate
+
